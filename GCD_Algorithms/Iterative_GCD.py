@@ -30,3 +30,4 @@ print("gcd of a and b is : ", g)
 print("Steps of a and b : ", steps)
 
 
+print("Testing GitHub update")
